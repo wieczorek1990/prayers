@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-CREATE DATABASE prayers WITH OWNER postgres ENCODING 'utf-8';
