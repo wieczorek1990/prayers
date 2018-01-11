@@ -6,6 +6,7 @@ services:
     depends_on:
       - postgres
     env_file:
+      - envs/django
       - envs/postgres
     ports:
       - "8000:8000"

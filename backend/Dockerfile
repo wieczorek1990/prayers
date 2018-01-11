@@ -7,4 +7,5 @@ WORKDIR /srv
 ADD requirements.txt /srv
 RUN pip install -r requirements.txt
 CMD bin/wait postgres --\
- python prayers/prayers/manage.py runserver 0.0.0.0:8000
+ python prayers/manage.py migrate &&\
+ python prayers/manage.py runserver 0.0.0.0:8000
