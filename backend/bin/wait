@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+set -e
+
+host="$1"
+shift
+
+until PGPASSWORD=$POSTGRES_PASSWORD psql -h "$host" -U $POSTGRES_USERNAME -c '\l'
+do
+  sleep 1
+done
+
+exec $@
