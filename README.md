@@ -1,2 +1,2 @@
 # prayers
-Prayers app for iOS.
+Polish christian prayers app for iOS.
