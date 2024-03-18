@@ -3,22 +3,19 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		CBC958FE2BA874CA0080D4C0 /* prayersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC958FD2BA874CA0080D4C0 /* prayersApp.swift */; };
-		CBC959002BA874CA0080D4C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC958FF2BA874CA0080D4C0 /* ContentView.swift */; };
-		CBC959022BA874CB0080D4C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC959012BA874CB0080D4C0 /* Assets.xcassets */; };
-		CBC959052BA874CB0080D4C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC959042BA874CB0080D4C0 /* Preview Assets.xcassets */; };
+		CBC9590D2BA877750080D4C0 /* MarkdownView in Frameworks */ = {isa = PBXBuildFile; productRef = CBC9590C2BA877750080D4C0 /* MarkdownView */; };
+		CBC959112BA87DE70080D4C0 /* Modlitwy.md in Resources */ = {isa = PBXBuildFile; fileRef = CBC959102BA87DE70080D4C0 /* Modlitwy.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CBC958FA2BA874CA0080D4C0 /* prayers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = prayers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBC958FD2BA874CA0080D4C0 /* prayersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prayersApp.swift; sourceTree = "<group>"; };
-		CBC958FF2BA874CA0080D4C0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		CBC959012BA874CB0080D4C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CBC959042BA874CB0080D4C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CBC959102BA87DE70080D4C0 /* Modlitwy.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Modlitwy.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +23,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CBC9590D2BA877750080D4C0 /* MarkdownView in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,19 +50,9 @@
 			isa = PBXGroup;
 			children = (
 				CBC958FD2BA874CA0080D4C0 /* prayersApp.swift */,
-				CBC958FF2BA874CA0080D4C0 /* ContentView.swift */,
-				CBC959012BA874CB0080D4C0 /* Assets.xcassets */,
-				CBC959032BA874CB0080D4C0 /* Preview Content */,
+				CBC959102BA87DE70080D4C0 /* Modlitwy.md */,
 			);
 			path = prayers;
-			sourceTree = "<group>";
-		};
-		CBC959032BA874CB0080D4C0 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				CBC959042BA874CB0080D4C0 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +71,9 @@
 			dependencies = (
 			);
 			name = prayers;
+			packageProductDependencies = (
+				CBC9590C2BA877750080D4C0 /* MarkdownView */,
+			);
 			productName = prayers;
 			productReference = CBC958FA2BA874CA0080D4C0 /* prayers.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +102,9 @@
 				Base,
 			);
 			mainGroup = CBC958F12BA874CA0080D4C0;
+			packageReferences = (
+				CBC9590B2BA877750080D4C0 /* XCLocalSwiftPackageReference "../../../../MarkdownView" */,
+			);
 			productRefGroup = CBC958FB2BA874CA0080D4C0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +119,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CBC959052BA874CB0080D4C0 /* Preview Assets.xcassets in Resources */,
-				CBC959022BA874CB0080D4C0 /* Assets.xcassets in Resources */,
+				CBC959112BA87DE70080D4C0 /* Modlitwy.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +130,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CBC959002BA874CA0080D4C0 /* ContentView.swift in Sources */,
 				CBC958FE2BA874CA0080D4C0 /* prayersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,7 +263,6 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"prayers/Preview Content\"";
 				DEVELOPMENT_TEAM = RHX53VZ224;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -300,7 +291,6 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"prayers/Preview Content\"";
 				DEVELOPMENT_TEAM = RHX53VZ224;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -344,6 +334,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		CBC9590B2BA877750080D4C0 /* XCLocalSwiftPackageReference "../../../../MarkdownView" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../../../../MarkdownView;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CBC9590C2BA877750080D4C0 /* MarkdownView */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = MarkdownView;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CBC958F22BA874CA0080D4C0 /* Project object */;
 }
