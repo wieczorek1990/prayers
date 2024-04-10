@@ -69,8 +69,8 @@ Amen.
 
 Święty Michaelu!
 Wspomagaj nas w walce,
-a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną.
-Oby go Bóg pogromić raczył, pokornie o to prosimy,
+a przeciw niegodziwości i zasadzkom złych duchów bądź naszą obroną.
+Oby ich Bóg pogromić raczył, pokornie o to prosimy,
 a Ty, Wodzu niebieskich zastępów,
 szatany i inne duchy złe,
 które na zgubę dusz osób po tym świecie krążą,
