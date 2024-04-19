@@ -79,9 +79,20 @@ Amen.
 
 ## Święty
 
-Święty Boże, Święty Mocny, Święty Nieśmiertelny zmiłuj się nad nami.
-Święty Boże, Święty Mocny, Święty Nieśmiertelny zmiłuj się nad nami.
-Święty Boże, Święty Mocny, Święty Nieśmiertelny zmiłuj się nad nami.
+Święty Boże,
+Święty Mocny,
+Święty Nieśmiertelny,
+zmiłuj się nad nami i nad całym światem.
+
+Od powietrza, głodu, ognia i wojny
+zachowaj nas Panie.
+Od nagłej, a niespodziewanej śmierci
+wybaw nas Panie.
+
+## Święty Ojcze Eli
+
+Święty Ojcze Eli,
+chroń nas.
 
 ## Panie Jehoszua Chryste
 
@@ -89,9 +100,8 @@ Panie Jehoszua Chryste,
 Synu Boży,
 zmiłuj się nad nami.
 
-## Duchu święty
+## Duchu Święty
 
-Duchu święty,
-przyjdz,
-zamieszkaj w nas
+Duchu Święty,
+przyjdź zamieszkaj w nas
 i oczyść nas z brudu wszelkiego.
