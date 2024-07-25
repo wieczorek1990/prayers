@@ -86,6 +86,7 @@ zmiłuj się nad nami i nad całym światem.
 
 Od powietrza, głodu, ognia i wojny
 zachowaj nas Panie.
+
 Od nagłej, a niespodziewanej śmierci
 wybaw nas Panie.
 
@@ -105,3 +106,8 @@ zmiłuj się nad nami.
 Duchu Święty,
 przyjdź zamieszkaj w nas
 i oczyść nas z brudu wszelkiego.
+
+## Święty Michaelu
+
+Święty Michaelu,
+chroń nas.
