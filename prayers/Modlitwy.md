@@ -1,14 +1,13 @@
 Modlitwy
 ========
 
-## Znak krzyża (na początek i koniec modlitw)
+## Znak krzyża
 
-W imię Ojca i Syna i Ducha Świętego.
-Amen.
+W imię Ojca i Syna i Ducha Świętego. Amen.
 
 ## Ojcze nasz
 
-Ojcze dobry, któryś jest w zaświatach,
+Ojcze dobry, który jesteś wszędzie,
 święć się imię Twoje;
 przyjdź królestwo Twoje;
 bądź wola Twoja jako w niebie tak i wszędzie.
@@ -22,15 +21,13 @@ Amen.
 ## Chwała
 
 Chwała Ojcu i Synowi i Duchowi Świętemu,
-jak była na początku, teraz i zawsze,
-i na wieki wieków.
+jak była na początku, teraz i zawsze, i na wieki wieków.
 Amen.
 
 ## Zdrowaś Maria
 
-Zdrowaś Maria, łaski pełna, Pan z Tobą,
-błogosławionaś Ty między niewiastami i
-błogosławiony owoc żywota Twojego, Jehoszua.
+Zdrowaś Maria, łaski pełna, Pan z Tobą, to rzecz pełna,
+znalazłaś łaskę u Boga, oto poczniesz Jego Syna.
 Święta Maria, Matko Boża, módl się za nami wszystkimi,
 teraz i w godzinę śmierci naszej.
 Amen.
@@ -79,9 +76,7 @@ Amen.
 
 ## Święty
 
-Święty Boże,
-Święty Mocny,
-Święty Nieśmiertelny,
+Święty Boże, Święty Mocy, Święty Nieśmiertelny,
 zmiłuj się nad nami i nad całym światem.
 
 Od powietrza, głodu, ognia i wojny
@@ -92,22 +87,27 @@ wybaw nas Panie.
 
 ## Święty Ojcze Eli
 
-Święty Ojcze Eli,
-chroń nas.
+Święty Ojcze Eli, ochroń nas.
+Święty Ojcze Eli, napój nas.
+Święty Ojcze Eli, nakarm nas.
 
 ## Panie Jehoszua Chryste
 
-Panie Jehoszua Chryste,
-Synu Boży,
-zmiłuj się nad nami.
+Panie Jehoszua Chryste, Synu Boży, zmiłuj się nad nami.
+Panie Jehoszua Chryste, Synu Boży, napój nas.
+Panie Jehoszua Chryste, Synu Boży, nakarm nas.
 
 ## Duchu Święty
 
-Duchu Święty,
-przyjdź zamieszkaj w nas
+Duchu Święty, przyjdź zamieszkaj w nas
 i oczyść nas z brudu wszelkiego.
 
 ## Święty Michaelu
 
-Święty Michaelu,
-chroń nas.
+Święty Michaelu, ochroń nas.
+Święty Michaelu, ochroń nas.
+Święty Michaelu, ochroń nas.
+
+## Znak krzyża
+
+W imię Ojca i Syna i Ducha Świętego. Amen.
