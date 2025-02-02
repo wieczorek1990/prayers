@@ -104,6 +104,12 @@ Wierzymy w cuda.
 Święty Boże, Święty Mocy, Święty Nieśmiertelny,
 zmiłuj się nad nami i nad całym światem.
 
+Święty Boże, Święty Mocny, Święty Nieśmiertelny,
+zmiłuj się nad nami i nad całym światem.
+
+Święty Boże, Święty Mocy, Święty Nieśmiertelny,
+zmiłuj się nad nami i nad całym światem.
+
 Od powietrza, głodu, ognia i wojny
 zachowaj nas Panie.
 
