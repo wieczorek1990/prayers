@@ -26,7 +26,7 @@ Amen.
 
 ## Zdrowaś Maria
 
-Zdrowaś Maria, łaski pełna, Pan z Tobą, to rzecz pełna,
+Zdrowaś Maria, łaskiś pełna, Pan jest z Tobą, to rzecz pełna,
 znalazłaś łaskę u Boga, oto poczniesz Jego Syna.
 Święta Maria, Matko Boża, módl się za nami wszystkimi,
 teraz i w godzinę śmierci naszej.
