@@ -74,6 +74,22 @@ które na zgubę dusz osób po tym świecie krążą,
 mocą Bożą strąć do piekła.
 Amen.
 
+## Credo
+
+Wierzymy w Boga Ojca,
+Wierzymy w Boga Syna,
+Wierzymy w Boga Ducha,
+
+Wierzymy w Kościół powszechny,
+Wierzymy w władzę papieską,
+
+Wierzymy w zaświaty,
+Wierzymy w aniołów,
+
+Wierzymy w sakramenty,
+Wierzymy w dary,
+Wierzymy w cuda.
+
 ## Święty
 
 Święty Boże, Święty Mocy, Święty Nieśmiertelny,
