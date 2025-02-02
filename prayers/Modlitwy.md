@@ -77,17 +77,26 @@ Amen.
 ## Credo
 
 Wierzymy w Boga Ojca,
+
 Wierzymy w Boga Syna,
+
 Wierzymy w Boga Ducha,
 
+
 Wierzymy w Kościół powszechny,
-Wierzymy w władzę papieską,
+
+Wierzymy we władzę papieską,
+
 
 Wierzymy w zaświaty,
+
 Wierzymy w aniołów,
 
+
 Wierzymy w sakramenty,
+
 Wierzymy w dary,
+
 Wierzymy w cuda.
 
 ## Święty
