@@ -76,6 +76,8 @@ Amen.
 
 ## Credo
 
+Wierzymy w Trójcę Świętą, Jedynego Boga.
+
 Wierzymy w Boga Ojca,
 
 Wierzymy w Boga Syna,
