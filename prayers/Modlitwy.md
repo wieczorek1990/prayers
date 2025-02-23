@@ -135,11 +135,21 @@ Panie Jehoszua Chryste, Synu Boży, nakarm nas.
 Duchu Święty, przyjdź zamieszkaj w nas
 i oczyść nas z brudu wszelkiego.
 
+Duchu Święty, przyjdź zamieszkaj w nas
+i oczyść nas z brudu wszelkiego.
+
+Duchu Święty, przyjdź zamieszkaj w nas
+i oczyść nas z brudu wszelkiego.
+
 ## Święty Michaelu
 
 Święty Michaelu, ochroń nas.
 Święty Michaelu, ochroń nas.
 Święty Michaelu, ochroń nas.
+
+## Jehouszua ufamy Tobie
+
+Jehoszua ufamy Tobie.
 
 ## Znak krzyża
 
