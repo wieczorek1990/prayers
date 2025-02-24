@@ -24,7 +24,7 @@ Chwała Ojcu i Synowi i Duchowi Świętemu,
 jak była na początku, teraz i zawsze, i na wieki wieków.
 Amen.
 
-## Zdrowaś Maria
+## Zdrowaś Mariam
 
 Zdrowaś Mariam, łaskiś pełna, Pan jest z Tobą, to rzecz pełna,
 znalazłaś łaskę u Boga, oto poczniesz Jego Syna.
