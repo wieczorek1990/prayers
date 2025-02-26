@@ -54,12 +54,9 @@ Amen.
 
 ## Aniele Boży
 
-Aniele Boży, stróżu mój,
-Ty zawsze przy mnie bądź.
-Rano, wieczór, we dnie, w nocy
-Bądź mi zawsze do pomocy,
-Broń mnie od wszelkiego złego
-i zaprowadź mnie do żywota wiecznego.
+Aniele Boży, stróżu mój, Ty zawsze przy mnie bądź.
+Rano, wieczór, we dnie, w nocy bądź mi zawsze do pomocy.
+Broń mnie od wszelkiego złego i zaprowadź mnie do żywota wiecznego.
 Amen.
 
 ## Święty Michaelu
