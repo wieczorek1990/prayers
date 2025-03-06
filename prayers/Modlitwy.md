@@ -124,7 +124,9 @@ wybaw nas Panie.
 ## Panie Jehoszua Chryste
 
 Panie Jehoszua Chryste, Synu Boży, zmiłuj się nad nami.
+
 Panie Jehoszua Chryste, Synu Boży, napój nas.
+
 Panie Jehoszua Chryste, Synu Boży, nakarm nas.
 
 ## Duchu Święty
