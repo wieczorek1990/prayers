@@ -118,7 +118,9 @@ wybaw nas Panie.
 ## Święty Ojcze Eli
 
 Święty Ojcze Eli, ochroń nas.
+
 Święty Ojcze Eli, napój nas.
+
 Święty Ojcze Eli, nakarm nas.
 
 ## Panie Jehoszua Chryste
@@ -143,7 +145,9 @@ i oczyść nas z brudu wszelkiego.
 ## Święty Michaelu
 
 Święty Michaelu, ochroń nas.
+
 Święty Michaelu, ochroń nas.
+
 Święty Michaelu, ochroń nas.
 
 ## Jehouszua ufamy Tobie
