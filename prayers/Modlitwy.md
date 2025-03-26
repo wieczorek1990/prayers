@@ -21,8 +21,9 @@ Amen.
 ## Chwała
 
 Chwała Ojcu i Synowi i Duchowi Świętemu,
-jak była na początku, teraz i zawsze, i na wieki wieków.
+jak była na początku, teraz i zawsze.
 Amen.
+
 
 ## Zdrowaś Mariam
 
