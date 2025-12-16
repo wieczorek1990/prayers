@@ -1,2 +1,4 @@
 # prayers
-Polish christian prayers app for iOS.
+Prayers app for iOS.
+
+Uses Markdown for data format.
