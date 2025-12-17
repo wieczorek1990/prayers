@@ -1,4 +1,4 @@
 # prayers
 Prayers app for iOS.
 
-Uses Markdown for data format.
+Uses [Markdown](https://github.com/keitaoouchi/MarkdownView) for data format.
