@@ -25,3 +25,9 @@ Amen.
 Święty Boże, Święty Mocy, Święty Nieśmiertelny uratuj nas.
 
 Amen.
+
+====
+
+Pobłogosław Boże nas i te dary, które z Twojej świętej szczodrobliwości spożywać mamy.
+
+Amen.
