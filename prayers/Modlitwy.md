@@ -28,6 +28,20 @@ Amen.
 
 ====
 
+Święty Boże Eli,
+który jesteś wszędzie,
+święć się imię Twoje,
+przyjdź królestwo Twoje,
+bądź wola Twoja,
+jako w niebie, tak i wszędzie.
+Pożywienia naszego powszedniego
+daj nam dzisiaj
+i odpuść nam nasze winy.
+
+Amen.
+
+====
+
 Pobłogosław Boże nas i te dary, które z Twojej świętej szczodrobliwości spożywać mamy.
 
 Amen.
