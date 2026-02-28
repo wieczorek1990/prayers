@@ -1,5 +1,7 @@
-Modlitwy  
-========  
+# Modlitwy  
+Modlitwy z amendacjami, dla wierzących w Eli.
+
+----
 
 Aniele Boży, stróżu mój,  
 Ty zawsze przy mnie bądź.  
@@ -9,14 +11,14 @@ Broń mnie od wszelkiego złego,
 strzeż duszy i ciała mego.  
 Amen.
 
-====
+----
 
 Święty Ojcze Eli, osłoń nas.  
 Święty Ojcze Eli, napój nas.  
 Święty Ojcze Eli, nakarm nas.  
 Amen.
 
-====
+----
 
 Święty Boże, Święty Mocy, Święty Nieśmiertelny, obdarz nas.  
 Święty Boże, Święty Mocy, Święty Nieśmiertelny, napój nas.  
@@ -32,7 +34,7 @@ Amen.
 
 Amen.
 
-====
+----
 
 Święty Boże Eli,  
 który jesteś wszędzie,  
@@ -46,7 +48,7 @@ i odpuść nam nasze winy.
 
 Amen.
 
-====
+----
 
 Pobłogosław, Boże, nas i te dary,  
 które z Twojej świętej szczodrobliwości  
