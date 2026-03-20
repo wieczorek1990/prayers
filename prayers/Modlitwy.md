@@ -42,8 +42,8 @@ który jesteś wszędzie,
 przyjdź królestwo Twoje,  
 bądź wola Twoja,  
 jako w niebie, tak i wszędzie.  
-Pożywienia naszego powszedniego  
-daj nam dzisiaj  
+Pożywieniem naszeym powszednim  
+obdaż nas dzisiaj  
 i odpuść nam nasze winy.  
 
 Amen.
