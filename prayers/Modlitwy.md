@@ -42,7 +42,7 @@ który jesteś wszędzie,
 przyjdź królestwo Twoje,  
 bądź wola Twoja,  
 jako w niebie, tak i wszędzie.  
-Pożywieniem naszeym powszednim  
+Pożywieniem naszym powszednim  
 obdaż nas dzisiaj  
 i odpuść nam nasze winy.  
 
