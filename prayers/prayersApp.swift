@@ -12,7 +12,7 @@ struct prayersApp: App {
     }
 
     private var markdown: String {
-        let path = Bundle.main.path(forResource: "Modlitwy", ofType: "md")!
+        let path = Bundle.main.path(forResource: "prayers-pl", ofType: "md")!
         let url = URL(fileURLWithPath: path)
         return try! String(contentsOf: url, encoding: String.Encoding.utf8)
     }

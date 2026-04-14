@@ -39,12 +39,12 @@ Amen.
 Święty Boże Eli,  
 który jesteś wszędzie,  
 święć się imię Twoje,  
-przyjdź królestwo Twoje,  
+przyjdź panowanie Twoje,
 bądź wola Twoja,  
 jako w niebie, tak i wszędzie.  
 Pożywieniem naszym powszednim  
 obdaż nas dzisiaj  
-i odpuść nam nasze winy.  
+i winy nasze przebacz.
 
 Amen.
 
