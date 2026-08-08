@@ -13,9 +13,10 @@ Amen.
 
 ----
 
-Święty Ojcze Eli, osłoń nas.  
-Święty Ojcze Eli, napój nas.  
-Święty Ojcze Eli, nakarm nas.  
+Święty Ojcze Eli, osłoń nas.
+Święty Ojcze Eli, obroń nas.
+Święty Ojcze Eli, napój nas.
+Święty Ojcze Eli, nakarm nas.
 Amen.
 
 ----
@@ -36,15 +37,15 @@ Amen.
 
 ----
 
-Święty Boże Eli,  
-który jesteś wszędzie,  
-święć się imię Twoje,  
+Święty Boże Eli,
+który jesteś wszędzie,
+święć się imię Twoje,
 przyjdź panowanie Twoje,
-bądź wola Twoja,  
-jako w niebie, tak i wszędzie.  
-Pożywieniem naszym powszednim  
-obdaż nas dzisiaj  
-i winy nasze przebacz.
+bądź wola Twoja,
+jako w niebie, tak i wszędzie.
+Pożywieniem naszym powszednim
+obdarz nas dzisiaj,
+a winy nasze przebacz.
 
 Amen.
 
