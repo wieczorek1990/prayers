@@ -56,3 +56,11 @@ które z Twojej świętej szczodrobliwości
 spożywać mamy.  
 
 Amen.
+
+----
+
+Duchowy odpoczynek racz im dać Boże,
+a światłość niech im świeci,
+niech odpoczywają w pokoju,
+
+Amen.
