@@ -37,7 +37,7 @@ Amen.
 
 ----
 
-Święty Boże Eli,
+Święty Ojcze Eli,
 który jesteś wszędzie,
 święć się imię Twoje,
 przyjdź panowanie Twoje,
@@ -59,7 +59,7 @@ Amen.
 
 ----
 
-Duchowy odpoczynek racz im dać Boże,
+Duchowy odpoczynek racz im okazać Boże,
 a światłość niech im świeci,
 niech odpoczywają w pokoju,
 
