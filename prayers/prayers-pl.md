@@ -44,7 +44,7 @@ przyjdź panowanie Twoje,
 bądź wola Twoja,
 jako w niebie, tak i wszędzie.
 Pożywieniem naszym powszednim
-obdarz nas dzisiaj,
+obdarz nas o Boże,
 a winy nasze przebacz.
 
 Amen.
@@ -59,8 +59,8 @@ Amen.
 
 ----
 
-Duchowy odpoczynek racz im okazać Boże,
+Duchowy odpoczynek racz im okazać o Boże,
 a światłość niech im świeci,
-niech odpoczywają w pokoju,
+niech odpoczywają w pokoju.
 
 Amen.
